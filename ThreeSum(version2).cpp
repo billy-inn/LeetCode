@@ -37,7 +37,6 @@ public:
 		t.push_back(a);
 		t.push_back(b);
 		t.push_back(c);
-		sort(t.begin(),t.end());
 		return t;
 	}
 };
